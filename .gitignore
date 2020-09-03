@@ -1,1 +1,11 @@
 .ipynb_checkpoints
+*.jpg
+*.png
+*.gif
+.DS_Store
+data
+word2vec-embeddings/data
+convolutional-neural-networks/cifar-cnn/data
+dcgan-svhn/data
+project-dog-classification/model_scratch.pt
+project-dog-classification/model_transfer.pt
